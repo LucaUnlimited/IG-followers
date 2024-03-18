@@ -8,7 +8,7 @@ Script para saber quien no te sigue mutuamente
 2- IR A TUS SEGUIDORES
 3- INSPECCIONAR LA PAGINA Y COLOCA LAS SIGUIENTES CONFIGURACIONES
 
-![conf](RESPONSIVE.png)
+![RESPONSIVE](https://github.com/LucaUnlimited/IG-followers/assets/103460079/920583a6-4048-4bd7-ac83-60bb59626969)
 
 
 
