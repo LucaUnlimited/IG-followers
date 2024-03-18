@@ -14,7 +14,17 @@ Script para saber quien no te sigue mutuamente
 
 4- PEGA EL CODIGO SCROLL Y ESPERA HASTA QUE CARGEN TODOS TUS SEGUIDORES  
 
+(si les aparece este warning pongan "allow pasting")  
+
+![Captura de pantalla 2024-03-18 172650](https://github.com/LucaUnlimited/IG-followers/assets/103460079/2cd3f775-51ce-469a-8617-acd8d7ab9a9e)
+
+
 5- UNA VEZ QUE NO APAREZCAN MAS SEGUIDORES PEGA EL CODIGO DE SEGUIDORES.JS  
+
+( CUANDO NO APAREZCA EL LOGO DE CARGANDO SIGNIFICA QUE NO HAY MAS USUARIOS QUE CARGAR )  
+
+![Captura de pantalla 2024-03-18 172823](https://github.com/LucaUnlimited/IG-followers/assets/103460079/278235b5-c412-4d6e-a468-84aa7c8ad437)
+
 
 6- ESPERAR A QUE TE REDIRECCIONE A LA PAGINA DE SEGUIDOS  
 
