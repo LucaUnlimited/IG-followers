@@ -8,6 +8,7 @@ Script para saber quien no te sigue mutuamente
 2- IR A TUS SEGUIDORES
 3- INSPECCIONAR LA PAGINA Y COLOCA LAS SIGUIENTES CONFIGURACIONES
 
+![conf](RESPONSIVE.png)
 
 
 
